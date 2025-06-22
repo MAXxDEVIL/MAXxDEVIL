@@ -94,22 +94,14 @@
     <td align="center">Cat 6</td>
   </tr>
 </table>
-
-<h3 align="center">My Team</h3>
 <p align="center">
-  <!-- Add your team/group image below -->
-  <!-- <img src="your-team-image-link" height="120"/> -->
-  This is my team!
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="maxxdevil" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en" alt="maxxdevil" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=github_dark" alt="maxxdevil" />
+  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxxdevil&" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdevil&layout=compact&theme=tokyonight&title_color=00fff7" alt="maxxdevil" />
 </p>
 
 <h3 align="center">My Team</h3>
