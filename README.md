@@ -101,7 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=github_dark" alt="maxxdevil" />
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdevil&layout=compact&theme=tokyonight&title_color=00fff7" alt="maxxdevil" />
+  <img src="https://streak-stats.demolab.com/?user=MAXxDEVIL&theme=neon-dark" />
 </p>
 
 <h3 align="center">My Team</h3>
