@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">For your hand ha:</h3>
 
 <div hight ="110px" width = "100%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/MOSHED-2025-6-23-18-52-27.gif" height ="200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
