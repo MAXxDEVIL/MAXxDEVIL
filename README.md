@@ -1,6 +1,7 @@
 
 <img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px">
 <h1 align="center", style="color:rgb(171,61,255)">Hi 👋, I'm Gopal Paul</h1>
+
 <h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
 
 <p align="center">
@@ -74,10 +75,10 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="maxxdevil" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=github_dark" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=synthwave" alt="maxxdevil" />
 </p>
 
 
