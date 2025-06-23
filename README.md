@@ -1,4 +1,4 @@
-
+<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%">
 <h1 align="center">Hi 👋, I'm Gopal Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
