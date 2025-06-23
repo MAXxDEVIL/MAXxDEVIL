@@ -1,9 +1,9 @@
-<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%">
+<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px">
 <h1 align="center">Hi 👋, I'm Gopal Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-helltaker" />
+  <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
 </p>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
