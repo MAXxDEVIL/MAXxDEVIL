@@ -1,3 +1,4 @@
+
 <img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px">
 <h1 align="center">Hi 👋, I'm Gopal Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -5,8 +6,8 @@
 <p align="center">
   <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 
 <table align="center">
   <tr>
@@ -17,13 +18,14 @@
       📫 How to reach me <b>paulgopal857@gamil.com</b>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/MAXxDEVIL/asset/blob/main/ce9fcaf9-777c-4248-a8b2-e36da5171fea.svg" height="100"/>
+      <img src="https://github.com/MAXxDEVIL/asset/blob/main/ce9fcaf9-777c-4248-a8b2-e36da5171fea.svg" height="100">
     </td>
   </tr>
 </table>
 
 <h3 align="center">Connect with me:</h3>
-<img src="">
+
+<div hight ="110px" width = "100%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/URL%20QR%20Code.png" height ="100px" align ="center"></div>    <!-- QR--> 
 <p align="center">
 <!-- Add your social icons/links here -->
 </p>
@@ -79,10 +81,10 @@
 </p>
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 <p align="center">
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/8cf60608f95bfae20a9e78884e1a33cb.gif"/>
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 
