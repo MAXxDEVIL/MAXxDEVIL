@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://1.bp.blogspot.com/-7A4WynwLsM..." alt="MasterHead" />
-  </a>
-</p>
 
 <h1 align="center">Hi 👋, I'm Gopal Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -10,6 +5,8 @@
 <p align="center">
   <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-helltaker" />
 </p>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
 
 <table align="center">
   <tr>
@@ -78,15 +75,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=github_dark" alt="maxxdevil" />
-  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MAXxDEVIL&theme=neon-dark" />
 </p>
 
-<h3 align="center">My Team</h3>
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
 <p align="center">
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/b8c34f7d-666c-4d0e-b345-8b63c7629655.svg"/>
+  <img src="https://github.com/MAXxDEVIL/asset/blob/main/8cf60608f95bfae20a9e78884e1a33cb.gif"/>
 </p>
-<p align="center">
-  This is my team!
-</p>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>
