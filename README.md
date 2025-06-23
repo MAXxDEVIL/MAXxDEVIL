@@ -1,7 +1,7 @@
 
 <img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px">
-<h1 align="center">Hi 👋, I'm Gopal Paul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center", style="color:rgb(171,61,255)">Hi 👋, I'm Gopal Paul</h1>
+<h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
@@ -25,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div hight ="110px" width = "100%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/URL%20QR%20Code.png" height ="100px" align ="center"></div>    <!-- QR--> 
+<div hight ="110px" width = "100%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/MOSHED-2025-6-23-18-52-27.gif" height ="200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
 <!-- Add your social icons/links here -->
 </p>
