@@ -33,7 +33,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">                                                                                                                                                  <!-- icoms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="12" />
