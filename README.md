@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://github.com/MAXxDEVIL/asset/blob/main/vs-code_ico.png" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/andirodStudio_icon.png" height="60" alt="androidstudio logo"  />
   <img width="12" />
