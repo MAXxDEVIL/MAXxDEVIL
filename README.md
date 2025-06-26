@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://github.com/MAXxDEVIL/asset/blob/main/js_icon.png" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"  />
   <img width="12" />
