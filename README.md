@@ -35,27 +35,26 @@
 <div align="center">                                                                                                                                                  <!-- icoms -->
   <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/js_icon.png" height="60" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/MAXxDEVIL/asset/blob/main/js_icon.png" height="60" alt="javascript logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/C%2B%2B_icon.png" height="60" alt="cplusplus logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C%2B%2B_icon.png" height="60" alt="cplusplus logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/java_icon.png" height="60" alt="java logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java"><img src="https://github.com/MAXxDEVIL/asset/blob/main/java_icon.png" height="60" alt="java logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/vs-code_ico.png" height="60" alt="vscode logo"  />
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://github.com/MAXxDEVIL/asset/blob/main/vs-code_ico.png" height="60" alt="vscode logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/andirodStudio_icon.png" height="60" alt="androidstudio logo"  />
+  <a href=""><img src="https://github.com/MAXxDEVIL/asset/blob/main/andirodStudio_icon.png" height="60" alt="androidstudio logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/git-hub_icon.png" height="60" alt="github logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/Using_GitHub_pages"><img src="https://github.com/MAXxDEVIL/asset/blob/main/git-hub_icon.png" height="60" alt="github logo"/></a>
   <img width="12" />
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/Arduino_Icon.png" height="60" alt="arduino logo"  />
+  <a href="https://developer.mozilla.org/en-US/search?q=ARDUINO"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Arduino_Icon.png" height="60" alt="arduino logo"/></a>
 </div>
-<br>
 
 
 <table align="center">
