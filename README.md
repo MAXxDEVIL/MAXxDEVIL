@@ -61,11 +61,11 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_1.jpeg" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/d5c4d6f9-602b-46b2-ae10-21e7db774a70.svg" height="100"/></td>
+    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_2.jpeg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/b009053a-747d-488f-b668-e6c946f10bae.svg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/ad3359d0-7f11-41a4-ac3f-6816917d2916.svg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/ed4186ad-3e3b-4593-befb-c742734204d2.svg" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Inspired%20by%20the%20'merge%20merge%20cat'%20game.svg" height="100"/></td>
+    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_6.jpeg" height="100"/></td>
   </tr>
   <tr>
     <td align="center">Cat 1</td>
