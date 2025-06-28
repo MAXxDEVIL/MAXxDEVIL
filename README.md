@@ -60,7 +60,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/13da3ca4-7581-48f1-aa61-c4d4240fb082.svg" height="100"/></td>
+    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_1.jpeg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/d5c4d6f9-602b-46b2-ae10-21e7db774a70.svg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/b009053a-747d-488f-b668-e6c946f10bae.svg" height="100"/></td>
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/ad3359d0-7f11-41a4-ac3f-6816917d2916.svg" height="100"/></td>
