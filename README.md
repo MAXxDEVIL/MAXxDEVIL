@@ -33,7 +33,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">                                                                                                                                                  <!-- icoms -->
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"  />
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"/></a>
   <img width="12" />
   <img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"  />
   <img width="12" />
