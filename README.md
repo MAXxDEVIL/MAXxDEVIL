@@ -26,7 +26,7 @@
 
 <h3 align="center">For your hand hald:</h3>
 
-<div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/QR_.gif" height ="200px" align ="center"></div>    <!-- QR--> 
+<div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/QR_.gif" height ="200px" width = "200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
 <!-- Add your social icons/links here -->
 </p>
