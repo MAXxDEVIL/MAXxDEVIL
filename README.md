@@ -1,5 +1,12 @@
 
-<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px">
+
+
+<p align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=press%2BstRT&size=26&pause=1000&color=F711BC&background=FF02D800&width=435&lines=Hi+I'm+Gopal+Paul+AKA+Mr_Cat;Welcome+to+my+Profile+" alt="Typing SVG" /></a> <!-- intro -->
+</p>
+
+
+<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px"> <!-- Cover img-->
 <h1 align="center", style="color:rgb(171,61,255)">Hi 👋, I'm Gopal Paul</h1>
 
 <h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
