@@ -78,11 +78,13 @@
     <td align="center">Cat 6</td>
   </tr>
 </table>
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="maxxdevil" />   <!-- Linkdin_icon-->
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=midnight-purple" alt="maxxdevil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=midnight-purple" alt="maxxdevil" />    <!-- Discord_icon -->
 </p>
 
 
