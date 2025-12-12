@@ -22,7 +22,7 @@
     <td align="center" valign="middle" style="font-size:16px;">
       🔭 I’m currently working on <b>Nothing !!!</b><br>
       🌱 I’m currently learning <b>JAVA</b><br>
-      💬 Ask me about <b>C, HTML, CSS</b><br>
+      💬 Ask me about <b>C, C++, Java, HTML, CSS, Java Script</b><br>
       📫 How to reach me <b>paulgopal857@gamil.com</b>
     </td>
     <td align="center" valign="middle">
