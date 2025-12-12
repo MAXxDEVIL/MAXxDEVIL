@@ -23,7 +23,7 @@
       🔭 I’m currently working on <b>Nothing !!!</b><br>
       🌱 I’m currently learning <b>JAVA</b><br>
       💬 Ask me about <b>C, C++, Java, HTML, CSS, Java Script</b><br>
-      📫 How to reach me <b>paulgopal857@gamil.com</b>
+      📫 How to reach me <b>paramitagopalpaul06@gamil.com</b>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/MAXxDEVIL/asset/blob/main/p_b.jpeg" height="100"> <!-- Tabile Img-->
