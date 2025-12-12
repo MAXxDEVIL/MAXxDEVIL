@@ -26,7 +26,7 @@
       📫 How to reach me <b>paulgopal857@gamil.com</b>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/MAXxDEVIL/asset/blob/main/ce9fcaf9-777c-4248-a8b2-e36da5171fea.svg" height="100"> <!-- Tabile Img-->
+      <img src="https://github.com/MAXxDEVIL/asset/blob/main/p_b.jpeg" height="100"> <!-- Tabile Img-->
     </td>
   </tr>
 </table>
