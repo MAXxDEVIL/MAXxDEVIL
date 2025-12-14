@@ -69,8 +69,6 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_1.jpeg" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_2.jpeg" height="100"/></td>
     <td align="center"><img src="" height="100"/></td>
     <td align="center"><img src="" height="100"/></td>
     <td align="center"><img src="" height="100"/></td>
@@ -80,7 +78,9 @@
     <td align="center"><img src="" height="100"/></td>
     <td align="center"><img src="" height="100"/></td>
     <td align="center"><img src="" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Cat_6.jpeg" height="100"/></td>
+    <td align="center"><img src="" height="100"/></td>
+    <td align="center"><img src="" height="100"/></td>
+    <td align="center"><img src="" height="100"/></td>
   </tr>
   <tr>
     <td align="center">Cat 1</td>
