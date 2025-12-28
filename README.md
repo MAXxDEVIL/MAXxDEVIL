@@ -99,7 +99,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxdevil&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="maxxdevil" />   <!-- Linkdin_icon-->
+  <a href = "https://www.linkedin.com/in/mrcat000"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/> <a/>     <!-- Linkdin_icon-->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxxdevil&show_icons=true&locale=en&theme=midnight-purple" alt="maxxdevil" />    <!-- Discord_icon -->
