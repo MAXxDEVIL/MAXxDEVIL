@@ -82,7 +82,7 @@
     <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2012.PNG" height="100"/></td>
   </tr>
   <tr>
-    <td align="center">Cat 1</td>
+    <td align="center">2025</td>
     <td align="center">Cat 2</td>
     <td align="center">Cat 3</td>
     <td align="center">Cat 4</td>
