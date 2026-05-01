@@ -1,113 +1,101 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Gopal%20Paul&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 
 
-<p align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=press%2BstRT&size=26&pause=1000&color=F711BC&background=FF02D800&width=435&lines=Hi+I'm+Gopal+Paul+AKA+Mr_Cat;Welcome+to+my+Profile+" alt="Typing SVG" /></a> <!-- intro -->
-</p>
+<img src="none" alt="Banner" width="100%" />
 
-
-<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px"> <!-- Cover img-->
-
-<h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
+  <a href="https://github.com/MAXxDEVIL">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MAXxDEVIL&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="MAXxDEVIL's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MAXxDEVIL&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MAXxDEVIL's GitHub Streak" width="49%" />
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" style="font-size:16px;">
-      🔭 I’m currently working on <b>Nothing !!!</b><br>
-      🌱 I’m currently learning <b>JAVA</b><br>
-      💬 Ask me about <b>C, C++, Java, HTML, CSS, Java Script</b><br>
-      📫 How to reach me : <b>gamil : paramitagopalpaul06@gamil.com</b>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github.com/MAXxDEVIL/asset/blob/main/p_b.jpeg" height="100"> <!-- Tabile Img-->
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">For your handheld:</h3>
-
-<div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/QR_.gif" height ="200px" width = "200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
-<!-- Add your social icons/links here -->
+  <img src="https://trophy.ryglcloud.net/?username=MAXxDEVIL&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gopal Paul's GitHub Trophies" />
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">                                                                                                                                                 <!-- icoms -->
-  
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/MAXxDEVIL/asset/blob/main/js_icon.png" height="60" alt="javascript logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C%2B%2B_icon.png" height="60" alt="cplusplus logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java"><img src="https://github.com/MAXxDEVIL/asset/blob/main/java_icon.png" height="60" alt="java logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"/></a>
-  <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://github.com/MAXxDEVIL/asset/blob/main/vs-code_ico.png" height="60" alt="vscode logo"/></a>
-  <img width="12" />
-  <a href=""><img src="https://github.com/MAXxDEVIL/asset/blob/main/andirodStudio_icon.png" height="60" alt="androidstudio logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/Using_GitHub_pages"><img src="https://github.com/MAXxDEVIL/asset/blob/main/git-hub_icon.png" height="60" alt="github logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/search?q=ARDUINO"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Arduino_Icon.png" height="60" alt="arduino logo"/></a>
-  
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MAXxDEVIL&theme=nightowl&radius=10" alt="MAXxDEVIL's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-<BR>
 
 
-<table align="center">
-  <tr>
-    <td align="center"><a href = "https://github.com/MAXxDEVIL/asset/tree/main/Achievements/2025"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%201.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%202.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%203.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%204.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%205.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%206.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%207.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%208.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%209.png" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2010.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2011.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2012.PNG" height="100"/></td>
-  </tr>
-  <tr>
-    <td align="center">2025</td>
-    <td align="center">Cat 2</td>
-    <td align="center">Cat 3</td>
-    <td align="center">Cat 4</td>
-    <td align="center">Cat 5</td>
-    <td align="center">Cat 6</td>
-    <td align="center">Cat 7</td>
-    <td align="center">Cat 8</td>
-    <td align="center">Cat 9</td>
-    <td align="center">Cat 10</td>
-    <td align="center">Cat 11</td>
-    <td align="center">Cat 12</td>
-  </tr>
-</table>
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/MAXxDEVIL">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MAXxDEVIL&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=MAXxDEVIL)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrcat000/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Gopal Paul's LinkedIn"/></a>
+  <a href="mailto:paramitagopalpaul06@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Gopal Paul's Email"/></a>
+  <a href="https://wa.me/919875391962"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 
 <div align="center">
-  <a href = "https://www.linkedin.com/in/mrcat000"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/></a>     <!--Linkdin_icon-->
-  <a href = "https://x.com/_Mr_Cat___"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"/></a>    <!-- Discord_icon -->
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-<p align="center">
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/8cf60608f95bfae20a9e78884e1a33cb.gif"/>
-</p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 
