@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Gopal%20Paul&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-
-
-<img src="none" alt="Banner" width="100%" />
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/MAXxDEVIL">
