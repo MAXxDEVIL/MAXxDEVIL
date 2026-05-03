@@ -107,11 +107,10 @@
 
 ![Top language](https://stats.pphat.top/languages?username=MAXxDEVIL)
 <br/>
-
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrcat000/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Gopal Paul's LinkedIn"/></a>
-  <a href="mailto:paramitagopalpaul06@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Gopal Paul's Email"/></a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcat000/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paramitagopalpaul06@gmail.com)
   
 </p>
 
