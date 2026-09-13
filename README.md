@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td align="center">2025</td>
-    <td align="center">Cat 2</td>
+    <td align="center">2026</td>
     <td align="center">Cat 3</td>
     <td align="center">Cat 4</td>
     <td align="center">Cat 5</td>
